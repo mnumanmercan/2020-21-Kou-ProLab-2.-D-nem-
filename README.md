@@ -1,5 +1,5 @@
 # 2020-21-Kou-ProLab- 2.Donem -
-##2020-21 Yılı KOU Prolab 2.Dönem Projelerim Bu Repo içinde yer alıyor
+## 2020-21 Yılı KOU Prolab 2.Dönem Projelerim Bu Repo içinde yer alıyor
 
  ## 1.Proje 1 Şirinler adlı Labirent oyununu konu alıyor [Prolab II-1](https://github.com/MNMercan/2020-21-Kou-ProLab-2.-D-nem-/tree/master/II-1)
    ### Şirinleri Gargamel'e ya da kedisi Azman'a yakalanmadan Şirine'nin yanına ulaştırmaya çalışıyoruz
