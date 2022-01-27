@@ -1,4 +1,4 @@
-# 2020-21-Kou-ProLab-2.-D-nem-
+# 2020-21-Kou-ProLab- 2.Donem -
 2020-21 Yılı KOU Prolab 2.Dönem Projelerim Bu Repo içinde yer alıyor
 
 ##1.Proje 1 Şirinler adlı Labirent oyununu konu alıyor
